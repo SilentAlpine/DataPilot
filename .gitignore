@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+merchantmind.db
+.DS_Store
+.idea/
+
+datapilot.db
